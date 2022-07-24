@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1> Hello! </h1>
+<h2> Currently I'm a student from Gdansk University of Technology hoping to fill this profile with w bunch of network/system administration tools </h2>
+<b> :snake: Python network tools </b> <br>
+<b> :computer: Bash system tools </b>
 
 <!--
 **Atreyuu/Atreyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
