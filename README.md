@@ -3,6 +3,8 @@
 <h3> :snake: Python network tools </h3>
 <h3> :computer: Bash system tools </h3>
 &emsp;- Kinda usless script for file integrity check (https://github.com/Atreyuu/checking-integrity)
+<h3> :coffee: Java journey </h3>
+&emsp;- Point&click java game i did as a University project (https://github.com/Atreyuu/Qemist-java-game)
 
 <!--
 **Atreyuu/Atreyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
